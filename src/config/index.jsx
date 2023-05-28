@@ -1,0 +1,1 @@
+export const api='https://sandbox.psapi.co/random-pro'
